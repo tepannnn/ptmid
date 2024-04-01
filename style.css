@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+dd {
+	text-indent: 30px;
+}
+
+dt {
+	text-indent: 50px;
+}
